@@ -1,7 +1,3 @@
-Here's a tailored **README.md** for your **SQL Contoso 100K Analysis Project**, following the same structure:
-
----
-
 # Contoso Retail Data Analysis Project  
 
 ## Introduction  
