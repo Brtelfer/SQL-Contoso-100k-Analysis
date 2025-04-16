@@ -102,6 +102,4 @@ The analysis provides actionable recommendations for retail businesses:
 
 ```bash
 git clone https://github.com/Brtelfer/SQL-Contoso-100k-Analysis.git
-```  
-
-Let me know if you'd like to add visualizations (e.g., charts from query results) or expand specific sections!
+```
